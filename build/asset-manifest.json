@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c13dcbe0.css",
+    "main.js": "/static/js/main.93469a05.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Darshan_Dalwadi_CV.pdf": "/static/media/Darshan_Dalwadi_CV.a1bc4c0998306d618084.pdf",
+    "static/media/assets.png": "/static/media/assets.1b585492490c8c1cace9.png",
+    "static/media/avatar.png": "/static/media/avatar.6e49ffbbf1535a41fa93.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/ecommerce.svg": "/static/media/ecommerce.c3f70a24b8c28819ccf60037e97bfa09.svg",
+    "static/media/invoice-dollar.svg": "/static/media/invoice-dollar.189a0b7bfc3c3a13cf3f2afbc696859b.svg",
+    "static/media/payment.svg": "/static/media/payment.84cdd5e1214031d4da7207a5746e22d0.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "static/media/hibernate.svg": "/static/media/hibernate.d957f2c9914b94a65d8e3185a1199d98.svg",
+    "main.c13dcbe0.css.map": "/static/css/main.c13dcbe0.css.map",
+    "main.93469a05.js.map": "/static/js/main.93469a05.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c13dcbe0.css",
+    "static/js/main.93469a05.js"
+  ]
+}
