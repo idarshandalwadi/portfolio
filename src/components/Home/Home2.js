@@ -3,7 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
 import {
-  AiFillGitgithub,
+  AiFillGithub,
+  // AiFillGitgithub,
   // AiOutlineTwitter,
   // AiFillInstagram,
   AiFillMediumCircle,
@@ -110,3 +111,4 @@ function Home2() {
   );
 }
 export default Home2;
+
