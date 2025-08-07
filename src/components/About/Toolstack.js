@@ -1,11 +1,11 @@
-import React from "react";
+// import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiSlack,
-  SiVercel,
-  SiMacos,
+  // SiSlack,
+  // SiVercel,
+  // SiMacos,
   SiUbuntu,
   SiMicrosoftteams,
   SiAtlassian,
